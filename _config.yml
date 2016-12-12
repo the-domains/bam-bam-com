@@ -1,0 +1,33 @@
+name: bam@bam.com
+layout_spectrum: 0.29181860866860987
+typography_spectrum: 0.4986642331346811
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
+  brandStrength: 0.10141583597765125
+  lightness: 0.3980203247880306
+  saturation: 0.004478313417335622
+  rhythmicContrast: 0.8585486782801988
+purpose:
+  - type: contact
+    label: 'Bam @ Bam '
+    url: 'mailto:bam.kalliope@gmail.com'
+title: Bam @ Bam
+description: >-
+  Musicians Collaboration With the Best Master(s) their Influence(s) and Current
+  Musical Projects and Performance Forum Welcome. 
+author:
+  name: Bam Bam
+  url: bam@bam.com
+  email: bam.kalliope@gmail.com
+content_rating:
+  adult: false
+content: []
+github: true

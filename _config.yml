@@ -1,5 +1,9 @@
+name: bam@bam.com
 layout_spectrum: 0.6559390413519548
 typography_spectrum: 0.2686354813284914
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#73603D'
@@ -11,12 +15,6 @@ color:
   lightness: 0.4777380603017968
   saturation: 0.296239141759435
   rhythmicContrast: 0.5351150860029762
-coverPrefs:
-  filter: false
-name: bam@bam.com
-opengraph:
-  type: ''
-  appId: ''
 purpose:
   - type: contact
     label: 'Bam @ Bam '

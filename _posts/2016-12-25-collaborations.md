@@ -1,13 +1,13 @@
 ---
 title: Collaborations
-datePublished: '2016-12-25T17:16:14.818Z'
-dateModified: '2016-12-25T17:15:42.132Z'
+datePublished: '2016-12-25T17:17:41.508Z'
+dateModified: '2016-12-25T17:17:24.361Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: true
 description: >-
-  Bam...Ive been working in the industry for over 25 yrs. As a multi talented
+  B@m...Ive been working in the industry for over 25 yrs. As a multi talented
   artist entertainment professional. Musician/Musical Engineer
 
   Comedian/Actor
@@ -24,7 +24,7 @@ _context: 'http://schema.org'
 ---
 * B@m @ B@m
 
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/43b52185-5a77-4d41-a4d7-46b8bed5cd66.jpg" /><h1>Collaborations</h1><p>Bam...Ive been working in the industry for over 25 yrs. As a multi talented artist entertainment professional. Musician/Musical Engineer
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/43b52185-5a77-4d41-a4d7-46b8bed5cd66.jpg" /><h1>Collaborations</h1><p>B@m...Ive been working in the industry for over 25 yrs. As a multi talented artist entertainment professional. Musician/Musical Engineer
 Comedian/Actor
 Singer/Dancer </p></article>
 

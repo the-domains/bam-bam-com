@@ -1,6 +1,7 @@
 ---
 title: Collaborations
-dateModified: '2016-12-25T07:13:12.504Z'
+datePublished: '2016-12-25T17:16:14.818Z'
+dateModified: '2016-12-25T17:15:42.132Z'
 publisher: {}
 author: []
 inFeed: true
@@ -13,7 +14,6 @@ description: >-
 
   Singer/Dancer 
 via: {}
-datePublished: '2016-12-25T07:13:29.810Z'
 starred: false
 datePublishedOriginal: '2016-12-25T07:13:29.810Z'
 sourcePath: _posts/2016-12-25-collaborations.md
@@ -22,7 +22,7 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-* Bam @ Bam 
+* B@m @ B@m
 
 <article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/43b52185-5a77-4d41-a4d7-46b8bed5cd66.jpg" /><h1>Collaborations</h1><p>Bam...Ive been working in the industry for over 25 yrs. As a multi talented artist entertainment professional. Musician/Musical Engineer
 Comedian/Actor
